@@ -1,0 +1,1 @@
+import{c as r,o as s}from"./index-DtTk8NTW.js";const _=(e,t)=>{const c=e.__vccOpts||e;for(const[o,n]of t)c[o]=n;return c},a={};function f(e,t){return s(),r("h3",null,"Week1 課堂作業")}const k=_(a,[["render",f]]);export{k as default};
